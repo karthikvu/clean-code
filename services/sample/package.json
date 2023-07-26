@@ -1,0 +1,31 @@
+{
+  "name": "@clean-code/sample",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "build": "babel src/app.js -d dist",
+    "start": "babel-node ./src/app.js",
+    "start:dev": "nodemon --exec babel-node ./src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@clean-code/core": "file:core",
+    "axios": "^1.4.0",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.22.9",
+    "@babel/core": "^7.22.9",
+    "@babel/node": "^7.22.6",
+    "@babel/plugin-proposal-class-properties": "^7.18.6",
+    "@babel/preset-env": "^7.22.9",
+    "esm": "^3.2.25",
+    "nodemon": "^3.0.1"
+  },
+  "directories": {
+    "doc": "docs"
+  },
+  "description": ""
+}
