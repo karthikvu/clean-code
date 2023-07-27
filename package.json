@@ -1,0 +1,19 @@
+{
+  "name": "@clean-code/framework",
+  "version": "0.0.1",
+  "description": "This is a framework that follows the principles of Clean Code Architecture, inspired by the teachings of Uncle Bob. It provides a structured and organized way to build Node.js applications, making them maintainable, scalable, and easy to understand.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karthikvu/clean-code.git"
+  },
+  "author": "karthikvu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/karthikvu/clean-code/issues"
+  },
+  "homepage": "https://github.com/karthikvu/clean-code#readme"
+}
