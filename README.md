@@ -122,39 +122,39 @@ For more information on the usage and customization of resources, refer to the d
 
 ## Tasks Yet to Be Done
 
-[ ] Tests: Implement unit tests and integration tests to ensure the correctness and robustness of the application.
+- [ ] Tests: Implement unit tests and integration tests to ensure the correctness and robustness of the application.
 
-[ ] TypeScript: Add TypeScript support to the project for enhanced type safety and better code development experience.
+- [ ] TypeScript: Add TypeScript support to the project for enhanced type safety and better code development experience.
 
-[ ] Dependency Management: Organize and manage project dependencies using a package manager like npm or yarn.
+- [ ] Dependency Management: Organize and manage project dependencies using a package manager like npm or yarn.
 
-[ ] Documentation: Provide comprehensive documentation on how to use the framework, its architecture, and each service's responsibilities.
+- [ ] Documentation: Provide comprehensive documentation on how to use the framework, its architecture, and each service's responsibilities.
 
-[ ] Linting and Code Formatting: Set up linting rules and code formatting guidelines to enforce a consistent coding style.
+- [ ] Linting and Code Formatting: Set up linting rules and code formatting guidelines to enforce a consistent coding style.
 
-[ ] Error Handling: Enhance error handling mechanisms for graceful handling of exceptions and failures.
+- [ ] Error Handling: Enhance error handling mechanisms for graceful handling of exceptions and failures.
 
-[ ] Authentication and Authorization: Implement authentication and authorization mechanisms to secure the application.
+- [ ] Authentication and Authorization: Implement authentication and authorization mechanisms to secure the application.
 
-[ ] Logging: Improve logging mechanisms for better tracking and monitoring of application activities.
+- [ ] Logging: Improve logging mechanisms for better tracking and monitoring of application activities.
 
-[ ] Validation: Implement data validation to ensure data integrity and prevent invalid input.
+- [ ] Validation: Implement data validation to ensure data integrity and prevent invalid input.
 
-[ ] CI/CD: Set up Continuous Integration (CI) and Continuous Deployment (CD) pipelines for automated testing and deployment.
+- [ ] CI/CD: Set up Continuous Integration (CI) and Continuous Deployment (CD) pipelines for automated testing and deployment.
 
-[ ] Security: Enhance security measures to protect against potential vulnerabilities and attacks.
+- [ ] Security: Enhance security measures to protect against potential vulnerabilities and attacks.
 
-[ ] Performance Optimization: Optimize application performance for improved responsiveness and efficiency.
+- [ ] Performance Optimization: Optimize application performance for improved responsiveness and efficiency.
 
-[ ] Scalability: Plan for application scalability to handle increasing loads and user base.
+- [ ] Scalability: Plan for application scalability to handle increasing loads and user base.
 
-[ ] Error Reporting: Implement error reporting mechanisms to receive alerts and notifications on critical issues.
+- [ ] Error Reporting: Implement error reporting mechanisms to receive alerts and notifications on critical issues.
 
-[ ] Monitoring: Set up monitoring tools to track application metrics and performance.
+- [ ] Monitoring: Set up monitoring tools to track application metrics and performance.
 
-[ ] Dockerization: Dockerize the application for containerization and easier deployment.
+- [ ] Dockerization: Dockerize the application for containerization and easier deployment.
 
-[ ] Example Service: Create an example service to showcase the framework's capabilities and usage.
+- [ ] Example Service: Create an example service to showcase the framework's capabilities and usage.
 
 ## License
 
